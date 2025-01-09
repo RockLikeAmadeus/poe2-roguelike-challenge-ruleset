@@ -11,13 +11,6 @@ The goal of the challenge is to complete Path of Exile 2's pinnacle endgame cont
 3. Fight your way to and complete POE2's pinnacle content.
 4. If at any point your character dies, re-roll a new random ascendency and keystone, create a new character, and go again.
 
-## Why I created this challenge
-
-I created this challenge with two primary aims in mind
-
-1. Create a way to learn POE2 on a deep level by forcing myself to engage with mechanics I otherwise might avoid or overlook, with a high level of stakes and difficulty, requiring a deeper engagement with the game's mechanics to succeed.
-2. Fun - the roguelike/roguelite template is a large part of some of my most favorite games, and I think the mechanics of this challenge will make Path of Exile 2 even more enjoyable than it already is.
-
 ## Detailed Rules
 
 1. Create a new character. You may choose to check or uncheck the Solo Self-Found toggle, but you must create the character in a Hardcore league. At the point of character creation, you must determine your _class_ and eventual _ascendency_ by choosing from the available options randomly. Any method of random selection is allowed, but for ease of use, just spin [this wheel](https://spinthewheel.app/oEKjn0d9YN). You must select the class corresponding with the selected ascendency. Re-rolling off of unwanted ascendencies/classes is against the spirit of the challenge. If, during this run, you manage to ascend, you must choose the ascendency rolled at this step, so make a note of your result for later.
@@ -30,6 +23,12 @@ I created this challenge with two primary aims in mind
 4. If you die at any point, roll a new ascendency and keystone, create a new character according to those requirements, and try again.
 
 ## FAQ
+
+Q: Why did you create this challenge?
+A: I created this challenge with two primary aims in mind
+
+1. Create a way to learn POE2 on a deep level by forcing myself to engage with mechanics I otherwise might avoid or overlook, with a high level of stakes and difficulty, requiring a deeper engagement with the game's mechanics to succeed.
+2. Fun - the roguelike/roguelite template is a large part of some of my most favorite games, and I think the mechanics of this challenge will make Path of Exile 2 even more enjoyable than it already is.
 
 ## TODO
 
