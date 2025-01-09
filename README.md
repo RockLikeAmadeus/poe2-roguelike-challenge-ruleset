@@ -24,7 +24,7 @@ The goal of the challenge is to complete Path of Exile 2's pinnacle endgame cont
 
 ## FAQ
 
-Q: Why did you create this challenge?
+Q: Why did you create this challenge?<br>
 A: I created this challenge with two primary aims in mind
 
 1. Create a way to learn POE2 on a deep level by forcing myself to engage with mechanics I otherwise might avoid or overlook, with a high level of stakes and difficulty, requiring a deeper engagement with the game's mechanics to succeed.
