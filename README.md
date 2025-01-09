@@ -24,11 +24,14 @@ The goal of the challenge is to complete Path of Exile 2's pinnacle endgame cont
 
 ## FAQ
 
-Q: Why did you create this challenge?<br>
-A: I created this challenge with two primary aims in mind
+### Q: Why did you create this challenge?<br>
+#### A: I created this challenge with two primary aims in mind
 
 1. Create a way to learn POE2 on a deep level by forcing myself to engage with mechanics I otherwise might avoid or overlook, with a high level of stakes and difficulty, requiring a deeper engagement with the game's mechanics to succeed.
 2. Fun - the roguelike/roguelite template is a large part of some of my most favorite games, and I think the mechanics of this challenge will make Path of Exile 2 even more enjoyable than it already is.
+
+### Q: Can I use the items and currency stored in my stash from previous runs in my current run?<br>
+#### A: Yes, which essentially makes this a rogue-_lite_ challenge, if we're being technical. A future version of the challenge could disallow this, but in this version, go ahead and save your good off-build items for your next character.
 
 ## TODO
 
