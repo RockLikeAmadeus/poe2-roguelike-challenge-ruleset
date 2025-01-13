@@ -18,7 +18,7 @@ The goal of the challenge is to complete Path of Exile 2's pinnacle endgame cont
    1. Go to [the POE2 Passive Skill Tree Planner]() and select your starting class from the dropdown at the top.
    2. Next, search for and select your rolled passive keystone on the tree. The planner will tell you the minimum number of nodes that are required to reach your rolled keystone (20, in the example shown here)
    ![alt text](example-1.png)
-   3. Multiply this number by 1.5, rounding up to the next integer whole number (30, in the example above). The resulting number is the cutoff by which you must take the rolled keystone passive. From that point on, this keystone may not be refunded.
+   3. Multiply this number by 2, rounding up to the next integer whole number (40, in the example above). The resulting number is the cutoff by which you must take the rolled keystone passive. From that point on, this keystone may not be refunded.
 3. Finish creating your character and begin the game. Attempt to complete the game's pinaccle endgame content according to these two requirements: you _must_ select your rolled ascendency upon ascension, and you _must_ take your rolled keystone passive on or before spending the calculated number of passive points.
 4. If you die at any point, roll a new ascendency and keystone, create a new character according to those requirements, and try again.
 
